@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Preet-Garach
+- 👀 I’m interested in Python, SQL, Machine Learning, Deep Learning
+- 🌱 I’m currently learning Data Science
+- 💞️ I’m looking to collaborate on Data Science Projects
