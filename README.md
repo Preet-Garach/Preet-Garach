@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Preet-Garach
-- 👀 I’m interested in Python, SQL, Machine Learning, Deep Learning
-- 🌱 I’m currently learning MLOps
+- 👀 I’m work with Python, SQL, Machine Learning, Deep Learning, FastAPI, AWS, GCP
+- 🌱 I’m currently learning about Reinforcement Learning, Genrative AI
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 You can reach me on my E-mail Id - preetgarach@gmail.com
 - LinkedIn - https://www.linkedin.com/in/preetgarach/
